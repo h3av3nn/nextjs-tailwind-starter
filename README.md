@@ -43,4 +43,4 @@ If you would like to contribute to this starter kit, please follow these steps:
 ## Contact
 
 Email: heavenejs@gmail.com
-Discord: HeaveN#1234
+Discord: heaven0001
